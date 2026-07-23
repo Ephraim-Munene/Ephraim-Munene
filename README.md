@@ -1,6 +1,6 @@
 # Hi there, I'm Ephraim Munene 👋 
 
-```bash
+
 CS Student | Software Developer | Digital Artist
 📍 Nairobi, Kenya
 
