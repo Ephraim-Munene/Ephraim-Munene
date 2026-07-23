@@ -13,7 +13,7 @@ And i like green dots 😄
 ### 🚀 What I'm Up To
 - 💻 **Building:** Web applications, dynamic dashboards, and creative frontend experiences.
 - 🛠️ **Current Focus:** Deepening my expertise in React, JavaScript, and backend system integration.
-- 🌐 **Latest Project:** [click2skill.com](https://click2skill.com) – A platform for concise, accessible learning.
+- 🌐 **Latest Project:** Kenyan market Place – A platform for the kenyan Market Place
 - 🐧 **OS of Choice:** Ubuntu Linux & Kali Linux.
 
 ---
@@ -59,8 +59,8 @@ And i like green dots 😄
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Ephraim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ephraim-Munene&show_icons=true&theme=dark" alt="Ephraim's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-Munene&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -68,6 +68,6 @@ And i like green dots 😄
 ### 📬 Connect With Me
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
 - 🌐 **Portfolio:** [Your Portfolio Link](https://click2skill.com)
-- 📧 **Email:** [Your Email Address](mailto:your.email@example.com)
+- 📧 **Email:** [Your Email Address](ephraimmunene17@gmail.com)
 
 *“Code is like humor. When you have to explain it, it’s bad.”*
