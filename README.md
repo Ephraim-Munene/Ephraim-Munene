@@ -41,7 +41,7 @@ And i like green dots 😄
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[Click2Skill](https://click2skill.com)** | Short-course digital platform for practical learning. | React / Web |
+| **[ProcureGuard AI](https://procure-guard-ai.vercel.app/)** | An AI auditing software for corporates and business entreprises
 | **Weather Dashboard** | Real-time weather tracking using live API metrics. | JavaScript, OpenWeather API |
 | **QuizMaster** | Interactive browser-based quiz game with local storage high scores. | HTML/CSS, JS, Web Storage |
 
