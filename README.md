@@ -59,8 +59,8 @@ And i like green dots 😄
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ephraim-Munene&show_icons=true&theme=dark" alt="Ephraim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ephraim-Munene&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Ephraim's GitHub Stats" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" width="48%" />
 </p>
 
 ---
