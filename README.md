@@ -66,8 +66,8 @@ And i like green dots 😄
 ---
 
 ### 📬 Connect With Me
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ephraim-karugia-0b07353b0/)
 - 🌐 **Portfolio:** [Your Portfolio Link](https://click2skill.com)
-- 📧 **Email:** [Your Email Address](ephraimmunene17@gmail.com)
+- 📧 **Email:** [ephraimmunene17@gmail.com](ephraimmunene17@gmail.com)
 
 *“Code is like humor. When you have to explain it, it’s bad.”*
